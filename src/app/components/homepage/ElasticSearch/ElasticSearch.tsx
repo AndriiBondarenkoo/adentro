@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function ElasticSearch() {
   return (
     <section className='elastic-search py-[50px] lg:py-[80px] relative overflow-x-hidden'>

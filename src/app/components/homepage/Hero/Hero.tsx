@@ -1,5 +1,6 @@
 import Image from "next/image";
 
+/*** Hero ***/
 export default function Hero() {
   return (
     <section className='hero relative pt-[80px] pb-[80px] md:pt-[114px] md:pb-[110px]'>
