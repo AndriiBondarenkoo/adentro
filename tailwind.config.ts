@@ -7,12 +7,37 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    screens: {
+      sm: '576px',
+      md: '768px',
+      lg: '992px',
+      xl: '1200px',
+      xxl: '1440px',
+    },
+
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        main: '#1A1365',
+        buttonColor: "#7774AA",
       },
+
+      container: {
+        center: true,
+        padding: {
+          DEFAULT: "15px",
+        },
+        screens: {
+          sm: '100%',
+          md: '100%',
+          lg: '100%',
+          xl: '1310px',
+        }
+      },
+
+      fontSize: {
+        sm: '14px',
+        base: '16px'
+      }
     },
   },
   plugins: [],
