@@ -11,25 +11,25 @@ export default function Expertise() {
 
           <div className="partner-logos flex flex-col md:flex-row md:items-center justify-between flex-wrap gap-x-[40px] xl:gap-x-[73px] gap-y-[30px]">
             <div className="item max-w-[150px] lg:max-w-[190px] xxl:max-w-[270px]">
-              <Image src="/Expertise/logo-1.png" alt="image"
+              <Image src="/expertise/logo-1.png" alt="image"
                 className="object-contain object-center"
                 width={224} height={76}
               />
             </div>
             <div className="item max-w-[150px] lg:max-w-[190px] xxl:max-w-[270px]">
-              <Image src="/Expertise/logo-2.png" alt="image"
+              <Image src="/expertise/logo-2.png" alt="image"
                 className="object-contain object-center"
                 width={226} height={66}
               />
             </div>
             <div className="item max-w-[150px] lg:max-w-[190px] xxl:max-w-[270px]">
-              <Image src="/Expertise/logo-3.png" alt="image"
+              <Image src="/expertise/logo-3.png" alt="image"
                 className="object-contain object-center"
                 width={269} height={42}
               />
             </div>
             <div className="item max-w-[150px] lg:max-w-[190px] xxl:max-w-[270px]">
-              <Image src="/Expertise/logo-4.png" alt="image"
+              <Image src="/expertise/logo-4.png" alt="image"
                 className="object-contain object-center"
                 width={118} height={71}
               />
