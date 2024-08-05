@@ -14,7 +14,7 @@ export default function GenAI() {
         <div className="layout relative grid grid-cols-1 lg:grid-cols-2 gap-x-[30px] xl:gap-x-[65px] gap-y-[30px]">
           <div className="item flex flex-col gap-y-[15px] xl:gap-y-[25px] py-[25px] md:py-[31px] px-[20px] md:px-[29px] rounded-[3px] border border-[#1A1365] border-opacity-35 bg-white">
             <span className='icon'>
-              <Image src="/GenAi/icon-1.png" alt="icon"
+              <Image src="/genai/icon-1.png" alt="icon"
                 className="w-[58px] min-w-[58px] h-[58px]" width="58" height="58"
               />
             </span>
@@ -24,8 +24,8 @@ export default function GenAI() {
 
           <div className="item flex flex-col gap-y-[15px] xl:gap-y-[25px] py-[25px] md:py-[31px] px-[20px] md:px-[29px] rounded-[3px] border border-[#1A1365] border-opacity-35 bg-white">
             <span className='icon'>
-              <Image src="/GenAi/icon-2.png" alt="icon"
-                className="w-[58px] min-w-[58px] h-[58px]" width="58" height="58"
+              <Image src="/genai/icon-2.png" alt="icon"
+                className="w-[58px] min-w-[58px] h-[58px]" width={58} height={58}
               />
             </span>
             <div className="title font-medium text-[22px] md:text-[26px] leading-[1.36]">Automated Incident Respons</div>
@@ -34,8 +34,8 @@ export default function GenAI() {
 
           <div className="item flex flex-col gap-y-[15px] xl:gap-y-[25px] py-[25px] md:py-[31px] px-[20px] md:px-[29px] rounded-[3px] border border-[#1A1365] border-opacity-35 bg-white">
             <span className='icon'>
-              <Image src="/GenAi/icon-3.png" alt="icon"
-                className="w-[58px] min-w-[58px] h-[58px]" width="58" height="58"
+              <Image src="/genai/icon-3.png" alt="icon"
+                className="w-[58px] min-w-[58px] h-[58px]" width={58} height={58}
               />
             </span>
             <div className="title font-medium text-[22px] md:text-[26px] leading-[1.36]">Predictive Analysis</div>
@@ -44,8 +44,8 @@ export default function GenAI() {
 
           <div className="item flex flex-col gap-y-[15px] xl:gap-y-[25px] py-[25px] md:py-[31px] px-[20px] md:px-[29px] rounded-[3px] border border-[#1A1365] border-opacity-35 bg-white">
             <span className='icon'>
-              <Image src="/GenAi/icon-4.png" alt="icon"
-                className="w-[58px] min-w-[58px] h-[58px]" width="58" height="58"
+              <Image src="/genai/icon-4.png" alt="icon"
+                className="w-[58px] min-w-[58px] h-[58px]" width={58} height={58}
               />
             </span>
             <div className="title font-medium text-[22px] md:text-[26px] leading-[1.36]">Process Optimization</div>
@@ -54,8 +54,8 @@ export default function GenAI() {
 
           <div className="item flex flex-col gap-y-[15px] xl:gap-y-[25px] py-[25px] md:py-[31px] px-[20px] md:px-[29px] rounded-[3px] border border-[#1A1365] border-opacity-35 bg-white">
             <span className='icon'>
-              <Image src="/GenAi/icon-5.png" alt="icon"
-                className="w-[58px] min-w-[58px] h-[58px]" width="58" height="58"
+              <Image src="/genai/icon-5.png" alt="icon"
+                className="w-[58px] min-w-[58px] h-[58px]" width={58} height={58}
               />
             </span>
             <div className="title font-medium text-[22px] md:text-[26px] leading-[1.36]">Dynamic Threat Intelligence</div>
