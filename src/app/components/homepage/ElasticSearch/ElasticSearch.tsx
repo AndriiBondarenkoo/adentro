@@ -9,7 +9,7 @@ export default function ElasticSearch() {
           <div className="sub-title relative text-[22px] md:text-[28px] lg:text-[36px] xxl:text-[48px] font-light">— a powerful combination</div>
         </div>
 
-        <div className="description text-[18px] md:text-[23px] xxl:text-[26px] leading-[1.3] xxl:font-medium max-w-[738px] mb-[40px] md:mb-[50px] lg:mb-[75px]">Elastic Search's robust data indexing and search capabilities combined with the analytical power of Large Language Models (LLM) offer unparalleled insights into your security data. This combination allows for:</div>
+        <div className="description text-[18px] md:text-[23px] xxl:text-[26px] leading-[1.3] xxl:font-medium max-w-[738px] mb-[40px] md:mb-[50px] lg:mb-[75px]">Elastic Search&apos;s robust data indexing and search capabilities combined with the analytical power of Large Language Models (LLM) offer unparalleled insights into your security data. This combination allows for:</div>
 
         <div className="benefits-layout grid grid-cols-1 lg:grid-cols-3 gap-x-[30px] xxl:gap-x-[44px] gap-y-[30px]">
           <div className="benefit-item flex flex-col gap-y-[15px] xl:gap-y-[25px] py-[25px] md:py-[31px] px-[20px] md:px-[29px] rounded-[3px] border border-[#1A1365] border-opacity-35 bg-white">

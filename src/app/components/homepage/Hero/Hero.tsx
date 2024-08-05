@@ -9,7 +9,7 @@ export default function Hero() {
         </h1>
 
         <div className="hero-description box-content text-sm lg:text-base leading-[1.625] max-w-[870px]">
-          <p>In today's dynamic digital landscape, efficient security operations are crucial for organizational success and resilience. Cutting-edge automation transforms compliance governance and risk assessment.</p>
+          <p>In today&apos;s dynamic digital landscape, efficient security operations are crucial for organizational success and resilience. Cutting-edge automation transforms compliance governance and risk assessment.</p>
         </div>
 
         <div className="button-group gorup-label flex flex-col gap-y-[12px] justify-center items-center mt-[25px] md:mt-[36px]">
