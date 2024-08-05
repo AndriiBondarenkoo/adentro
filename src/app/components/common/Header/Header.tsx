@@ -19,9 +19,8 @@ export default function Header({ onNavOpen, showNav }: props) {
     if (header) {
       const addScrollClass = () => {
         const scrollPosition = window.scrollY;
-        const headerHeight = header?.offsetHeight;
 
-        if (scrollPosition >= headerHeight) {
+        if (scrollPosition >= 50) {
           setIsScrolled(true);
         } else {
           setIsScrolled(false);
